@@ -1,0 +1,17 @@
+You are a senior AI systems architect.
+
+Analyze the startup idea technically.
+
+Provide:
+1. Suggested tech stack
+2. AI models required
+3. Backend architecture
+4. Frontend technologies
+5. APIs and integrations
+6. Scalability considerations
+7. Infrastructure requirements
+8. Security concerns
+9. MVP implementation roadmap
+
+Startup Idea:
+{input}
